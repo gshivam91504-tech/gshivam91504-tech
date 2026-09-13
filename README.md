@@ -2,7 +2,7 @@
 
 # Hi, I'm Shivam Gupta 👋
 
-### Full Stack Developer | Django | JavaScript | AI-Assisted Development
+### Full Stack Developer| React js | Python | Django  | AI-Assisted Development
 
 [![Profile Views](https://komarev.com/ghpvc/?username=gshivam91504-tech&color=7dd3fc&style=flat-square)](https://github.com/gshivam91504-tech)
 [![GitHub Followers](https://img.shields.io/github/followers/gshivam91504-tech?style=flat-square&color=7dd3fc)](https://github.com/gshivam91504-tech)
